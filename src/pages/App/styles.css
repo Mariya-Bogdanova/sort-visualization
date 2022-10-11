@@ -1,0 +1,23 @@
+body{
+  background-color: blanchedalmond;
+}
+.blockList{
+  margin: 60px auto;
+  max-width: min-content;
+  height: 400px;
+  border-radius: 10px;  
+  background-color: rgb(255, 212, 104);
+  display: flex;
+  padding: 2px;
+  align-items: flex-end;
+}
+.block{
+  margin: 3px;
+  padding: 4px;
+  font-family: 'Courier New', Courier, monospace;
+  border-radius: 8px;
+  width: 20px;
+  background-color: white;
+  text-align: center;
+  font-weight:  bold;
+}
